@@ -5,11 +5,11 @@ main:
   
   - title: "Awards & Honors"
     url: /awards/
-
+  
   - title: "Publications"
     url: /publications/
 
-  #- title: "Talks"
+  # - title: "Talks"
   #  url: /talks/    
 
   - title: "Teaching"
@@ -18,13 +18,10 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
     
   - title: "Contact"
     url: /contact/
-  #- title: "CV"
-  #  url: /cv/
-    
-  #- title: "Guide"
-  #  url: /markdown/
+  # - title: "Guide"
+    # url: /markdown/
