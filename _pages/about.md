@@ -18,7 +18,7 @@ redirect_from:
 * I am currently a master student at [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/) in Shanghai Jiao Tong University ([SJTU](http://en.sjtu.edu.cn/)) in China.
 * My research interests cover Computer Vision and Deep Learning. More specifically, I focus mainly on Image Harmonization. 
 * Prior to now, I obtained my  bachelor degree majoring in computer science and technology from Shanghai Jiao Tong University (SJTU) in China.
-* Click [here]() to view my up-to-state CV. If you are interested in knowing more about me, please feel free to [contact me](https://cathyjasmine.github.io/contact/).
+* Click <a href="../files/congwenyan_cv.pdf" target="_blank">Here</a> to view my up-to-state CV. If you are interested in knowing more about me, please feel free to [contact me](https://cathyjasmine.github.io/contact/).
 
 # Recent news
 * Mar, 2021. My paper "BargainNet: Background-Guided Domain Translation for Image Harmonization" is accepted by **ICME2021** as **Oral**.
