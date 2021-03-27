@@ -47,6 +47,4 @@ Service and leadership
 
 * **School Counselor of Campus Life Management Department in SJTU**
 
-  ​	Responsible for the management of 92 life guidance teachers and 23 teacher studios.
-  
-  ​	Organized more than 40 cultural and sports activities including New Year Gifts, Assessment of Standardized Dormitory, etc..
+	​	Responsible for the management of 92 life guidance teachers and 23 teacher studios  and organized more than 40 cultural and sports activities including New Year Gifts, Assessment of Standardized Dormitory, etc..
