@@ -5,5 +5,7 @@ excerpt: "cong wenyan Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
+* **National Scholarship for Graduate Students** (Top 0.2% Nationwide). 2020
+* **Merit Student** of Shanghai Jiao Tong University. 2020.
 * **Second Prize** in  "HUAWEI Cup" The 16th China Post-Graduate Mathematical Contest in Modeling. 2019.
-* **"Color for love" bronze prize of Chinese college students' rural supporting education**, Nationwide. 2017.
+* **Excellent League Cadre** of Shanghai Jiao Tong University. 2019.

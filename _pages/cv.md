@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-More details could be found in my [CV](). 
+More details could be found in my [CV](file:///D:/personal_page/_pages/congwenyan_cv.pdf). 
 
 **Brief discription of me is as follows.**
 
@@ -22,13 +22,27 @@ Education
 
 Work experience
 ======
-
+* **Image Harmonization Dataset iHarmony4 Construction**
+* **Domain Verification Based DIH**
+* **Background-Guided Domain translation for DIH**
+* **Rendered Human Harmonization Dataset RHHarmony Construction**
+* **Cross-Domain Image Harmonization**
+* **High-Resolution DIH**
 
 Skills
 ======
-* Programming Language: C/C++, Python, MATLAB, Java
-* Libraries: Pytorch, OpenCV, Tensorflow
+* **Programming**: python, C++, Git, bash, SQL, MATLAB
+* **Packages**: PyTorch, TensorFlow, OpenCV
 
 
 Service and leadership
 ======
+* **Teaching Assistant in SJTU**
+
+  ​	*CS245: Principles of Data Science* for undergraduates, 2020 Spring.
+  ​    *CS7335: Statistical Learning and Inference* for postgraduates, 2020 Fall. 
+
+  ​	*CS245: Principles of Data Science* for undergraduates, 2021 Spring.
+
+* **School Counselor of Campus Life Management Department in SJTU**
+  	Responsible for the management of 92 life guidance teachers and 23 teacher studios, and organized more than 40 cultural and sports activities including New Year Gifts, Assessment of Standardized Dormitory, etc..
