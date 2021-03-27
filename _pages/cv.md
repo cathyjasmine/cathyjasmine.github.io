@@ -41,10 +41,12 @@ Service and leadership
 
   ​	*CS245: Principles of Data Science* for undergraduates, 2020 Spring.
 
-     *CS7335: Statistical Learning and Inference* for postgraduates, 2020 Fall. 
+  ​	*CS7335: Statistical Learning and Inference* for postgraduates, 2020 Fall. 
 
   ​	*CS245: Principles of Data Science* for undergraduates, 2021 Spring.
 
 * **School Counselor of Campus Life Management Department in SJTU**
-  ​   Responsible for the management of 92 life guidance teachers and 23 teacher studios.
-  ​   Organized more than 40 cultural and sports activities including New Year Gifts, Assessment of Standardized Dormitory, etc..
+
+  ​	Responsible for the management of 92 life guidance teachers and 23 teacher studios.
+  
+  ​	Organized more than 40 cultural and sports activities including New Year Gifts, Assessment of Standardized Dormitory, etc..
