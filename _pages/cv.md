@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-More details could be found in my [CV](file:///D:/personal_page/_pages/congwenyan_cv.pdf). 
+More details could be found in my <a href="files/congwenyan_cv.pdf" target="_blank">CV</a>. 
 
 **Brief discription of me is as follows.**
 
@@ -41,10 +41,10 @@ Service and leadership
 
   ​	*CS245: Principles of Data Science* for undergraduates, 2020 Spring.
 
-  ​    *CS7335: Statistical Learning and Inference* for postgraduates, 2020 Fall. 
+     *CS7335: Statistical Learning and Inference* for postgraduates, 2020 Fall. 
 
   ​	*CS245: Principles of Data Science* for undergraduates, 2021 Spring.
 
 * **School Counselor of Campus Life Management Department in SJTU**
-  	
-  	Responsible for the management of 92 life guidance teachers and 23 teacher studios, and organized more than 40 cultural and sports activities including New Year Gifts, Assessment of Standardized Dormitory, etc..
+  ​   Responsible for the management of 92 life guidance teachers and 23 teacher studios.
+  ​   Organized more than 40 cultural and sports activities including New Year Gifts, Assessment of Standardized Dormitory, etc..
