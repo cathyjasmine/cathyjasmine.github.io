@@ -21,6 +21,7 @@ redirect_from:
 * Click <a href="../files/congwenyan_cv.pdf" target="_blank">Here</a> to view my up-to-state CV. If you are interested in knowing more about me, please feel free to [contact me](https://cathyjasmine.github.io/contact/).
 
 # Recent news
+* Apr, 2021. We release the source code and trained models of our BargainNet at [GitHub](https://github.com/bcmi/BargainNet). In addition, to facilitate future study of image harmonization, we summarize image harmonization related methods at [Awesome-Image-Harmonization](https://github.com/bcmi/Awesome-Image-Harmonization) and provide the quantitative comparison of different baselines on iHarmony4 dataset at [GitHub](https://github.com/bcmi/Image_Harmonization_Datasets/).
 * Mar, 2021. My paper "BargainNet: Background-Guided Domain Translation for Image Harmonization" is accepted by **ICME2021** as **Oral**.
 * Oct, 2020. I win the **National Scholarship for Graduate Students** (Top 0.2% Nationwide).
 * Mar, 2020. We release the source code and trained models of our DoveNet and other baselines  at [GitHub](https://github.com/bcmi/Image_Harmonization_Datasets/).
