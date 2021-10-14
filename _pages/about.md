@@ -18,7 +18,7 @@ redirect_from:
 * I am currently a final-year master student at [Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/) of Shanghai Jiao Tong University ([SJTU](http://en.sjtu.edu.cn/)) in China.
 * My research interests cover Computer Vision and Deep Learning. More specifically, I focus mainly on Image Harmonization. 
 * Prior to now, I obtained my  bachelor degree majoring in computer science and technology from Shanghai Jiao Tong University (SJTU) in China.
-* Click <a href="../files/CV.pdf" target="_blank">Here</a> to view my up-to-state CV. If you are interested in knowing more about me, please feel free to [contact me](https://cathyjasmine.github.io/contact/).
+* Click <a href="../files/congwenyan_cv.pdf" target="_blank">Here</a> to view my up-to-state CV. If you are interested in knowing more about me, please feel free to [contact me](https://cathyjasmine.github.io/contact/).
 
 # Recent news
 * Apr, 2021. We release the first large-scale rendered image harmonization dataset RHHarmony at [GitHub](https://github.com/bcmi/Rendered_Image_Harmonization_Datasets) which contains 135k pairs of ground-truth rendered images and composite rendered images.

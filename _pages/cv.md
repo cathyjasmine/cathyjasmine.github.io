@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-More details could be found in my <a href="../files/CV.pdf" target="_blank">CV</a>. 
+More details could be found in my <a href="../files/congwenyan_cv.pdf" target="_blank">CV</a>. 
 
 **Brief discription of me is as follows.**
 
