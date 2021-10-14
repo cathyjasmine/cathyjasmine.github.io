@@ -9,3 +9,5 @@ author_profile: true
 * **Merit Student** of Shanghai Jiao Tong University. 2020.
 * **Second Prize** in  "HUAWEI Cup" The 16th China Post-Graduate Mathematical Contest in Modeling. 2019.
 * **Excellent League Cadre** of Shanghai Jiao Tong University. 2019.
+* **Outstanding Graduate** of Shanghai Jiao Tong University. 2019.
+* **Academic Excellence Scholarship** of Shanghai Jiao Tong University. 2018, 2017, 2016.
