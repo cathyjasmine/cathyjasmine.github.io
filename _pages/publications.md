@@ -10,35 +10,33 @@ author_profile: true
   <b>C7. HYouTube: Video Harmonization Dataset</b>   
     - [[arxiv]](https://arxiv.org/abs/2109.08809)
 	- Xinyuan Lu, Shengyuan Huang, Li Niu, **Wenyan Cong**, and Liqing Zhang
-
-
-<b>C6. High-Resolution Image Harmonization via Collaborative Dual Transformations</b>   
+	
+  <b>C6. High-Resolution Image Harmonization via Collaborative Dual Transformations</b> 
     - [[arxiv]](https://arxiv.org/abs/2109.06671)
-	- **Wenyan Cong**, Xinhao Tao, Li Niu, Jing Liang, Xuesong Gao, Qihao Sun, and Liqing Zhang
-
-
-<b>C5. Deep Image Harmonization by Bridging the Reality Gap</b>   
+    - **Wenyan Cong**, Xinhao Tao, Li Niu, Jing Liang, Xuesong Gao, Qihao Sun, and Liqing Zhang
+	
+  <b>C5. Deep Image Harmonization by Bridging the Reality Gap</b>   
     - [[arxiv]](https://arxiv.org/abs/2103.17104)
-	- **Wenyan Cong**, Junyan Cao, Li Niu, Jianfu Zhang, and Liqing Zhang
-
-
+    - **Wenyan Cong**, Junyan Cao, Li Niu, Jianfu Zhang, and Liqing Zhang
+	
   <b>C4. Making Images Real Again: A Comprehensive Survey on Deep Image Composition</b> 
     - [[arxiv]](https://arxiv.org/abs/2106.14490)
     - Li Niu, **Wenyan Cong**, Liu Liu, Yan Hong, Bo Zhang, Jing Liang, and Liqing Zhang
 
 
   <b>C3. BargainNet: Background-Guided Domain Translation for Image Harmonization</b> 
-	  - [[pdf]](https://ieeexplore.ieee.org/document/9428394) [[arxiv]](https://arxiv.org/abs/2009.09169)
-	  - **Wenyan Cong**, Li Niu, Jianfu Zhang, Jing Liang, Liqing Zhang
-	  - IEEE International Conference on Multimedia and Expo (ICME), 2021 **Oral**
-	
+    - [[pdf]](https://ieeexplore.ieee.org/document/9428394) [[arxiv]](https://arxiv.org/abs/2009.09169)
+    - **Wenyan Cong**, Li Niu, Jianfu Zhang, Jing Liang, Liqing Zhang
+    - IEEE International Conference on Multimedia and Expo (ICME), 2021 **Oral**
+        	
+
 * ### 2020
 
   <b>C2. DoveNet: Deep Image Harmonization via Domain Verification</b> 
     - [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cong_DoveNet_Deep_Image_Harmonization_via_Domain_Verification_CVPR_2020_paper.pdf) [[supp]](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Cong_DoveNet_Deep_Image_CVPR_2020_supplemental.pdf) [[arxiv]](http://arxiv.org/abs/1911.13239) 
     - **Wenyan Cong**, Jianfu Zhang, Li Niu, Liu Liu, Zhixin Ling, Weiyuan Li and Liqing Zhang
     - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2020
-  
+
 
   <b>C1. Image Harmonization Dataset iHarmony4: HCOCO, HAdobe5k, HFlickr, and Hday2night </b> 
     - [[arxiv]](https://arxiv.org/abs/1908.10526) 
