@@ -7,9 +7,19 @@ author_profile: true
 ## Conference Papers
 * ### 2021
 	
-  <b>C5. HYouTube: Video Harmonization Dataset</b>   
+  <b>C7. HYouTube: Video Harmonization Dataset</b>   
     - [[arxiv]](https://arxiv.org/abs/2109.08809)
 	- Xinyuan Lu, Shengyuan Huang, Li Niu, **Wenyan Cong**, and Liqing Zhang
+
+
+<b>C6. High-Resolution Image Harmonization via Collaborative Dual Transformations</b>   
+    - [[arxiv]](https://arxiv.org/abs/2109.06671)
+	- **Wenyan Cong**, Xinhao Tao, Li Niu, Jing Liang, Xuesong Gao, Qihao Sun, and Liqing Zhang
+
+
+<b>C5. Deep Image Harmonization by Bridging the Reality Gap</b>   
+    - [[arxiv]](https://arxiv.org/abs/2103.17104)
+	- **Wenyan Cong**, Junyan Cao, Li Niu, Jianfu Zhang, and Liqing Zhang
 
 
   <b>C4. Making Images Real Again: A Comprehensive Survey on Deep Image Composition</b> 
