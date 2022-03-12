@@ -21,6 +21,7 @@ redirect_from:
 * Click <a href="../files/congwenyan_cv.pdf" target="_blank">Here</a> to view my up-to-state CV. If you are interested in knowing more about me, please feel free to [contact me](https://cathyjasmine.github.io/contact/).
 
 # Recent news
+* Mar, 2022. My paper "High-Resolution Image Harmonization via Collaborative Dual Transformations" is accepted by **CVPR2022**.
 * Apr, 2021. We release the first large-scale rendered image harmonization dataset RHHarmony at [GitHub](https://github.com/bcmi/Rendered_Image_Harmonization_Datasets) which contains 135k pairs of ground-truth rendered images and composite rendered images.
 * Apr, 2021. We release the source code and trained models of our BargainNet at [GitHub](https://github.com/bcmi/BargainNet). In addition, to facilitate future study of image harmonization, we summarize image harmonization related methods at [Awesome-Image-Harmonization](https://github.com/bcmi/Awesome-Image-Harmonization) and provide the quantitative comparison of different baselines on iHarmony4 dataset at [GitHub](https://github.com/bcmi/Image_Harmonization_Datasets/).
 * Mar, 2021. My paper "BargainNet: Background-Guided Domain Translation for Image Harmonization" is accepted by **ICME2021** as **Oral**.
