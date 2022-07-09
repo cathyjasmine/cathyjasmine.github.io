@@ -48,12 +48,9 @@ Teaching
 ------
 
 * **Teaching Assistant in Shanghai Jiao Tong University**
-  
-  - *CS245: Principles of Data Science* for undergraduates, 2020 Spring.
-  
-  - *CS7335: Statistical Learning and Inference* for postgraduates, 2020 Fall. 
-  
-  - *CS245: Principles of Data Science* for undergraduates, 2021 Spring.
+  * *CS245: Principles of Data Science* for undergraduates, 2020 Spring.
+  * *CS7335: Statistical Learning and Inference* for postgraduates, 2020 Fall. 
+  * *CS245: Principles of Data Science* for undergraduates, 2021 Spring.
   
     
 
