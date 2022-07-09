@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About"
 excerpt: "cong wenyan"
 description: "This is cong wenyan's personal website. Thanks for visiting!!!"
 author_profile: true
