@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Wenyan Cong"
 title_separator          : "-"
 name                     : &name "Wenyan Cong"
-description              : &description "Master Student, Computer Science and Engineering, Shanghai Jiao Tong University"
+description              : &description "PhD Student at VITA, the University of Texas at Austin"
 url                      : https://cathyjasmine.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cathyjasmine/cathyjasmine.github.io"
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Wenyan Cong"
   avatar           : "cong.jpg"
-  bio              : "Master Student, Computer Science and Engineering, Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  bio              : "PhD Student at VITA, the University of Texas at Austin"
+  location         : "Austin, Texas"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "plcwyam17320@sjtu.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=uQV5aCsAAAAJ&view_op=list_works&gmla=AJsN-F48DGwpzwl9ITwl7nkyvh8zzsSdxwXvRfO5s0cXm8zFs19EdOnlZOcjThf3BFUtoFv5_BQEApek65dx4W49U8cXzPs6rrRWkWzt42zyHNeP4SxbtTIkAF7jksw0MD6ddrlzK-5CLgJoeMf3IPSeCPHIQat4DZF5H7ylhXwrMH-VoLS9dgHwsSfbgLeSNE7ViYIm7AFk&sciund=11524003120478284717"
+  email            : "wycong@utexas.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   instagram        : #"zhq_sjtu"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : 
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

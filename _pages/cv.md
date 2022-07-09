@@ -10,13 +10,19 @@ redirect_from:
 
 {% include base_path %}
 
-More details could be found in my <a href="../files/congwenyan_cv.pdf" target="_blank">CV</a>. 
-
-**Brief discription of me is as follows.**
+## Wenyan Cong
+{: .text-center}
+PhD student, Dept. of Electrical and Computer Engineering, UT Austin
+{: .text-center}
 
 Education
 ======
-* 2019-Now M.S. in Computer Science and Technology, Shanghai Jiao Tong University, Shanghai, China. Majoring in computer vision, advised by [Prof. Li Niu](http://bcmi.sjtu.edu.cn/home/niuli/) and [Prof.Liqing Zhang](https://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=67) in [BCMI](http://bcmi.sjtu.edu.cn) lab.
+* 2022-Now Ph.D. student in Department of Electrical and Computer Engineering
+
+  University of Texas at Austin, Austin, TX 78712
+
+* 2019-2022 M.S. in Computer Science and Technology, Shanghai Jiao Tong University, Shanghai, China. Majoring in computer vision, advised by [Prof. Li Niu](http://bcmi.sjtu.edu.cn/home/niuli/) and [Prof.Liqing Zhang](https://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=67) in [BCMI](http://bcmi.sjtu.edu.cn) lab.
+
 * 2015-2019 B.S. in Computer Science and Technology, Shanghai Jiao Tong University, Shanghai, China. Majoring in computer science and technology.
 
 
