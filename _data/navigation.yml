@@ -1,10 +1,9 @@
 # main links links
 main:
-
-  - title: "Publications"
+  - title: "PUBLICATIONS"
     url: /publications/
 
-  - title: "Experience"
+  - title: "EXPERIENCE"
     url: /experiences/
 
   - title: "CV"
