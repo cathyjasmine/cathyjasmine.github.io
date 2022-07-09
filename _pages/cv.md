@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](){: .btn}
+[PDF format EN](){: .btn}
 
-## Wenyan Cong
+## Wenyan Cong (丛文艳)
 {: .text-center}
 Ph.D. student, Dept. of Electrical and Computer Engineering, UT Austin
 {: .text-center}
@@ -42,15 +42,23 @@ Awards and Honors
 * **Outstanding Graduate** of Shanghai Jiao Tong University. 2019.
 * **Academic Excellence Scholarship** of Shanghai Jiao Tong University. 2018, 2017, 2016.
 
-Professional Service
-------
-* Reviewer
-	* IJCAI-21, CVPR-22, ECCV-22
+
 
 Teaching
 ------
 
 * **Teaching Assistant in Shanghai Jiao Tong University**
+  
   - *CS245: Principles of Data Science* for undergraduates, 2020 Spring.
+  
   - *CS7335: Statistical Learning and Inference* for postgraduates, 2020 Fall. 
+  
   - *CS245: Principles of Data Science* for undergraduates, 2021 Spring.
+  
+    
+
+Professional Service
+------
+
+* Reviewer
+  * IJCAI-21, CVPR-22, ECCV-22

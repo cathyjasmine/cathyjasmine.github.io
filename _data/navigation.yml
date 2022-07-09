@@ -1,27 +1,14 @@
 # main links links
 main:
-  - title: "CV/Bio"
-    url: /cv/
-  
-  - title: "Awards & Honors"
-    url: /awards/
-  
+
   - title: "Publications"
     url: /publications/
 
-  # - title: "Talks"
-  #  url: /talks/    
+  - title: "Experience"
+    url: /experiences/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  #- title: "Portfolio"
-  #  url: /portfolio/
-        
-  - title: "Blog"
-    url: /year-archive/
-    
-  - title: "Contact"
-    url: /contact/
-  # - title: "Guide"
-    # url: /markdown/
+  - title: "CV"
+    url: /cv/
+
+  - title: "VITA"
+    url: https://vita-group.github.io/index.html
