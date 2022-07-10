@@ -20,10 +20,9 @@ Work Experience
 Research Experience
 ------
 * **University of Texas at Austin, USA**  <br>
-	Research Assistant, ECE department, Jun. 2021 - Dec. 2021
+	Remote Visiting Student, ECE department, Jun. 2021 - Dec. 2021
 	* **Object-Centric Image Unfolding**: On-going work on a new challenging task.
 	
-
 * **Shanghai Jiao Tong University, Shanghai, China**  <br>
 	Research Assistant, CS department, Dec. 2018 - Mar. 2022
 	* **High-Resolution Image Harmonization [[code](https://github.com/bcmi/CDTNet-High-Resolution-Image-Harmonization)]**: Proposed the first high-resolution image harmonization network with collaborative dual transformations: high-resolution traditional color transformation and low-resolution deep pixel transformation; achieved ~50% improvement and saved ~65% time and computational resources.
