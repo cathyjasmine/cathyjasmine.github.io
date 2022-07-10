@@ -9,12 +9,13 @@ author_profile: true
 
 Work Experience
 ------
-* **Research Intern in [ZMO.AI](https://www.zmo.ai/zh/about-us/) (startup)**
-  - Collaborated with upstream pose search, image inpainting, image matting, and image composition techniques and developed an efficient background harmonization pipeline for real-time background replacement.
-  - Achieved realistic results on both indoor and outdoor backgrounds for on-model images; it has been applied to the practical application of content generation for e-commerce brands.
+* **[ZMO.AI](https://www.zmo.ai/zh/about-us/) (startup), China**
+  - Research Intern, Jan. 2021 - Apr. 2021, Shenzhen, China
+  - Realistic and real-time background replacement for on-model images, used for content generation for e-commerce brands.
 
-* **Research Intern in Hisense Group Holdings Co., Ltd. (School-enterprise cooperation).**
-  - Applied our efforts on deep image harmonization into revenue; achieved high-quality, high-resolution, and high-fps harmonization on Hisense's virtual household devices; held three relevant patents.
+* **Hisense Group Holdings Co., Ltd., China**
+  - Research Intern, Dec. 2020 - May 2021, Qingdao, CHina
+  - High-quality, high-resolution, and high-fps harmonization on Hisense's virtual household devices; held three relevant patents.
 
 Research Experience
 ------

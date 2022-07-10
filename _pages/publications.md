@@ -20,8 +20,6 @@ Conference Papers
    * Xinyuan Lu, Shengyuan Huang, Li Niu, **Wenyan Cong**,  and Liqing Zhang
    * 31st International Joint Conference on Artificial Intelligence (IJCAI), 2022 <br>
    
-     
-   
    ##### C3. High-Resolution Image Harmonization via Collaborative Dual Transformations
    
       * [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Cong_High-Resolution_Image_Harmonization_via_Collaborative_Dual_Transformations_CVPR_2022_paper.pdf)] [[supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Cong_High-Resolution_Image_Harmonization_CVPR_2022_supplemental.pdf)] [[arXiv](http://arxiv.org/abs/2109.06671)]
