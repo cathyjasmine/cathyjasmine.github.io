@@ -52,18 +52,17 @@ Preprint
 * 2021
 
   ### C4. HYouTube: Video Harmonization Dataset
-   * [[arXiv](https://arxiv.org/abs/2103.17104)]
+   * [[arXiv](https://arxiv.org/abs/2109.08809)]
    * Xinyuan Lu, Shengyuan Huang, Li Niu, **Wenyan Cong**, and Liqing Zhang <br>
    
-   
-  ### C3. Deep Image Harmonization by Bridging the Reality Gap
-   * [[arXiv](https://arxiv.org/abs/2103.17104)]
-   * **Wenyan Cong**, Junyan Cao, Li Niu, Jianfu Zhang, and Liqing Zhang <br>
 
-
-  ### C2. Making Images Real Again: A Comprehensive Survey on Deep Image Composition
+  ### C3. Making Images Real Again: A Comprehensive Survey on Deep Image Composition
    * [[arXiv](https://arxiv.org/abs/2106.14490)]
    * Li Niu, **Wenyan Cong**, Liu Liu, Yan Hong, Bo Zhang, Jing Liang, and Liqing Zhang <br>
+
+  ### C2. Deep Image Harmonization by Bridging the Reality Gap
+   * [[arXiv](https://arxiv.org/abs/2103.17104)]
+   * **Wenyan Cong**, Junyan Cao, Li Niu, Jianfu Zhang, and Liqing Zhang <br>
 
 
 * 2019
