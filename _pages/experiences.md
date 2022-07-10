@@ -19,12 +19,26 @@ Work Experience
 
 Research Experience
 ------
-* University of Texas at Austin, USA
-	Research Assistant, ECE department, Jun. 2021 - Dec. 2021
-	* **Object-Centric Image Unfolding**: On-going work on a new challenging task.
+* **University of Texas at Austin, USA**
+	
+	
 
-* Shanghai Jiao Tong University, Shanghai, China
+	Research Assistant, ECE department, Jun. 2021 - Dec. 2021
+	
+	
+	
+	* **Object-Centric Image Unfolding**: On-going work on a new challenging task.
+	
+	  
+	
+* **Shanghai Jiao Tong University, Shanghai, China**
+	
+	
+	
 	Research Assistant, CS department, Dec. 2018 - Mar. 2022
+	
+	
+	
 	* **High-Resolution Image Harmonization [[code](https://github.com/bcmi/CDTNet-High-Resolution-Image-Harmonization)]**: Proposed the first high-resolution image harmonization network with collaborative dual transformations: high-resolution traditional color transformation and low-resolution deep pixel transformation; achieved ~50% improvement and saved ~65% time and computational resources.
 	* **Cross-Domain Image Harmonization  [[code](https://github.com/bcmi/Rendered-Image-Harmonization-Dataset-RHHarmony)]**: Proposed the first cross-domain image harmonization network using the mixture of rendered images and real images; achieved ~35% improvement on novel categories.
 	* **Rendered Human Harmonization Dataset Construction**: Released the first large-scale rendered image harmonization dataset [RHHarmony](https://github.com/bcmi/Rendered_Image_Harmonization_Datasets) with 135k image pairs; mitigated labor-intensive extension and supplemented real datasets.
