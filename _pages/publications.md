@@ -22,7 +22,7 @@ Conference Papers
    * **Wenyan Cong***, Hanxue Liang*, Peihao Wang, Zhiwen Fan, Tianlong Chen, Mukund Varma, Yi Wang, and Zhangyang Wang
    * IEEE International Conference on Computer Vision (ICCV), 2023 <br>
 
-  ### C6. Deep Image Harmonization with Learnable
+  ### C6. Deep Image Harmonization with Learnable Augmentation
    * [pdf] [supp] [[arXiv](https://arxiv.org/abs/2308.00376)]
    * Li Niu, Junyan Cao, **Wenyan Cong**, and Liqing Zhang 
    * IEEE International Conference on Computer Vision (ICCV), 2023 <br>
