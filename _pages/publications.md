@@ -15,7 +15,25 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 Conference Papers
 ======
 
+* 2023
+
+  ### C7. Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts
+   * [pdf] [supp] [[arXiv](https://arxiv.org/abs/2308.00376)]
+   * **Wenyan Cong***, Hanxue Liang*, Peihao Wang, Zhiwen Fan, Tianlong Chen, Mukund Varma, Yi Wang, and Zhangyang Wang
+   * IEEE International Conference on Computer Vision (ICCV), 2023 <br>
+
+  ### C6. Deep Image Harmonization with Learnable
+   * [pdf] [supp] [[arXiv](https://arxiv.org/abs/2308.00376)]
+   * Li Niu, Junyan Cao, **Wenyan Cong**, and Liqing Zhang 
+   * IEEE International Conference on Computer Vision (ICCV), 2023 <br>
+
 * 2022
+
+  ### C5. Deep Image Harmonization by Bridging the Reality Gap
+   * [pdf] [supp] [[arXiv](https://arxiv.org/abs/2103.17104)]
+   * Junyan Cao*, **Wenyan Cong***,  Li Niu, Jianfu Zhang, and Liqing Zhang
+   * The 33rd British Machine Vision Conference (BMVC), 2022.
+
 
   ### C4. Deep Video Harmonization With Color Mapping Consistency
    * [pdf] [supp] [[arXiv](https://arxiv.org/abs/2205.00687)]
