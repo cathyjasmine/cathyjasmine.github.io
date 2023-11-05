@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="../files/congwenyan_cv.pdf" target="_blank">PDF</a> {: .btn}
+<a href="../files/congwenyan_cv.pdf" target="_blank">PDF</a>
 
 ## Wenyan Cong (丛文艳)
 
